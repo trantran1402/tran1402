@@ -1,13 +1,13 @@
-# tran1402
- This platform allows authors to publish novels and comics while earning revenue from views. Readers can enjoy free or paid content, support authors through gifts, and interact via comments and ratings. The platform also offers revenue tracking and story management tools for authors.
-# Tran1402  
+Tran1402 là nền tảng dành cho tác giả xuất bản tiểu thuyết và truyện tranh trực tuyến, đồng thời kiếm tiền từ lượt đọc. Độc giả có thể thưởng thức nội dung miễn phí hoặc trả phí, tặng quà ủng hộ tác giả và tương tác qua bình luận, đánh giá.
 
-This platform allows authors to publish novels and webcomics while monetizing their content through view-based revenue. Readers can support their favorite creators by purchasing views or sending gifts. The platform also provides tools for authors to manage their works, track revenue, and engage with readers through comments and discussions.  
+Nền tảng cung cấp các công cụ hỗ trợ tác giả:
 
-Features include:  
-- Free & paid reading options (pay-per-view system)  
-- Gift support for authors  
-- Comments & rating system  
-- Revenue analytics & management tools  
+Hệ thống đọc truyện miễn phí & trả phí (tính phí theo lượt xem).
 
-This project is designed to support content creators and enhance the digital reading experience.  
+Cơ chế tặng quà giúp tác giả tăng thu nhập.
+
+Bình luận & đánh giá để kết nối với độc giả.
+
+Phân tích doanh thu & quản lý truyện chuyên nghiệp.
+
+Mục tiêu của Tran1402 là tạo ra một không gian sáng tạo, nơi tác giả có thể phát triển sự nghiệp và độc giả có trải nghiệm đọc truyện tốt nhất.
